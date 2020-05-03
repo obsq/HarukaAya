@@ -33,3 +33,5 @@ Haruka Aya repository is available in [Gitlab](https://gitlab.com/RealAkito/Haru
 * Paul Larsen - Marie and Rose creator, inspired me to do many things.
 
 And much more that we couldn't list it here!
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
